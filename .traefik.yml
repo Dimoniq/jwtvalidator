@@ -1,7 +1,7 @@
 displayName: Auth0 JWT Validator
 type: middleware
 
-import: github.com/traefik/jwt-validator
+import: github.com/Dimoniq/jwt-validator
 
 summary: "Validate your Auth0 JWT some day. DO NOT USE IT NOW IT DOES NOT WORK"
 
