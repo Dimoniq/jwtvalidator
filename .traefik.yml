@@ -1,0 +1,8 @@
+displayName: Auth0 JWT Validator
+type: middleware
+
+import: github.com/traefik/jwt-validator
+
+summary: "Validate your Auth0 JWT"
+
+testData: {}
