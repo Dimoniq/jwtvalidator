@@ -3,6 +3,6 @@ type: middleware
 
 import: github.com/traefik/jwt-validator
 
-summary: "Validate your Auth0 JWT"
+summary: "Validate your Auth0 JWT some day. DO NOT USE IT NOW IT DOES NOT WORK"
 
 testData: {}
