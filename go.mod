@@ -1,3 +1,3 @@
-module github.com/traefik/jwt-validator
+module github.com/Dimoniq/jwt-validator
 
 go 1.18
