@@ -6,7 +6,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/traefik/jwt-validator"
+	"github.com/Dimoniq/jwtvalidator"
 )
 
 func TestDemo(t *testing.T) {
